@@ -1,0 +1,3 @@
+*.o
+tmp_exec
+tmp_compile_errors.txt
