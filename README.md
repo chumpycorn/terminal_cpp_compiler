@@ -109,21 +109,11 @@ editor> quit
 
 ## Example Screenshots
 
-**Editor prompt after starting:**
-![Editor start](screenshots/start.png)
+<img width="587" height="376" alt="Screenshot 2025-11-16 at 3 13 00 PM" src="https://github.com/user-attachments/assets/31aad4e4-5643-413e-b7c5-6d67d812b4cc" />
+<img width="582" height="371" alt="Screenshot 2025-11-16 at 3 13 24 PM" src="https://github.com/user-attachments/assets/55657f27-c3f7-46e7-bdcb-807642538044" />
+<img width="581" height="376" alt="Screenshot 2025-11-16 at 3 14 55 PM" src="https://github.com/user-attachments/assets/8ee60677-26d8-44e7-8e8b-63524d949137" />
+<img width="548" height="336" alt="Screenshot 2025-11-16 at 3 17 18 PM" src="https://github.com/user-attachments/assets/cbac5b27-a2b3-43bc-ac4e-de1bb80c32f4" />
 
-**Appending lines:**
-![Appending code](screenshots/append.png)
-
-**Showing buffer:**
-![Show buffer](screenshots/show.png)
-
-**Running program output:**
-![Program output](screenshots/run.png)
-
-> Replace these placeholders with actual screenshots or GIFs.
-
----
 
 ## Notes
 
